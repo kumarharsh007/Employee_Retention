@@ -36,6 +36,3 @@ The dataset used in this project contains various attributes related to employee
 
 ## Contributors
 - Harsh Swami(https://github.com/kumarharsh007)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
